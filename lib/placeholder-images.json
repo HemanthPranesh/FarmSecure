@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "login-background",
+      "description": "Background image for the login page showing a lush farm.",
+      "imageUrl": "https://images.unsplash.com/photo-1746175658969-7e0736ec96c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsdXNoJTIwZmFybXxlbnwwfHx8fDE3NTg2MTE3NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lush farm"
+    },
+    {
+      "id": "farmer-avatar",
+      "description": "Avatar for a farmer user.",
+      "imageUrl": "https://images.unsplash.com/photo-1649726955230-6a2b7b4add6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBmYXJtZXJ8ZW58MHx8fHwxNzU4Njg0MTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person farmer"
+    },
+    {
+      "id": "training-clean-hands",
+      "description": "Image for a training module about handwashing.",
+      "imageUrl": "https://images.unsplash.com/photo-1718891564407-43296e0d4f2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjbGVhbiUyMGhhbmRzfGVufDB8fHx8MTc1ODY4NDEzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clean hands"
+    },
+    {
+      "id": "training-disinfection",
+      "description": "Image for a training module about equipment disinfection.",
+      "imageUrl": "https://images.unsplash.com/photo-1586947292720-16654d57e52e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkaXNpbmZlY3QlMjBlcXVpcG1lbnR8ZW58MHx8fHwxNzU4Njg0MTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "disinfect equipment"
+    },
+    {
+      "id": "training-quarantine",
+      "description": "Image for a training module about animal quarantine.",
+      "imageUrl": "https://images.unsplash.com/photo-1595256109579-f49479f6c400?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhbmltYWwlMjBxdWFyYW50aW5lfGVufDB8fHx8MTc1ODY4NDEzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "animal quarantine"
+    },
+    {
+      "id": "training-visitors",
+      "description": "Image for a training module about visitor protocols.",
+      "imageUrl": "https://images.unsplash.com/photo-1740284615153-499d388f8422?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYXJtJTIwdmlzaXRvcnxlbnwwfHx8fDE3NTg2ODQxMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "farm visitor"
+    }
+  ]
+}
